@@ -11,10 +11,13 @@ Web3j: Web3 Java Ethereum Ðapp API
 Web3j is a lightweight, highly modular, reactive, type safe Java and
 Android library for working with Smart Contracts and integrating with
 clients (nodes) on the Ethereum network:
+
 Web3j 是一个轻量级的、高度模块化的、反应性的、类型安全的 Java 和使用智能合同和集成的 Android 库
 以太网络上的客户端(节点) :
 
 ![image](https://github.com/web3j/web3j-docs/blob/master/docs/img/web3j_network.png)
+![image](https://github.com/user-attachments/assets/c2dbbe39-9ad8-43bc-89a9-3cf67bde852f)
+
 
 This allows you to work with the [Ethereum](https://www.ethereum.org/)
 blockchain, without the additional overhead of having to write your own
