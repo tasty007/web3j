@@ -11,6 +11,8 @@ Web3j: Web3 Java Ethereum Ðapp API
 Web3j is a lightweight, highly modular, reactive, type safe Java and
 Android library for working with Smart Contracts and integrating with
 clients (nodes) on the Ethereum network:
+Web3j 是一个轻量级的、高度模块化的、反应性的、类型安全的 Java 和使用智能合同和集成的 Android 库
+以太网络上的客户端(节点) :
 
 ![image](https://github.com/web3j/web3j-docs/blob/master/docs/img/web3j_network.png)
 
@@ -18,18 +20,27 @@ This allows you to work with the [Ethereum](https://www.ethereum.org/)
 blockchain, without the additional overhead of having to write your own
 integration code for the platform.
 
+这可以让你使用以太 https://www.Ethereum.org/区块链，没有额外的开销，必须编写自己的平台集成代码。
+
 The [Java and the Blockchain](https://www.youtube.com/watch?v=ea3miXs_P6Y) talk provides
 an overview of blockchain, Ethereum and Web3j.
 
+[ Java 与区块链]( https://www.youtube.com/watch?v=ea3mixs_p6y )讲座提供区块链、以太链和 Web3j 概述。
+
 NEW! Get involved!
+新的! 参与进来！
 --------
 Since Web3J moved under Hyperledger we started to do Web3J Contributors calls every 2 weeks!
 Subscribe to our community page and to see check our call schedule.
 Your contribution matters!
-- [Community Link](https://lists.hyperledger.org/g/web3j) - Check our last updates! 
-- [Calendar Invite](https://lists.hyperledger.org/g/web3j/ics/invite.ics?repeatid=57401) - Add the contributor call to your calendar!
 
-Features
+自从 Web3J 移动到 Hyperledger 之下，我们开始每两周做一次 Web3J 贡献者调用！
+订阅我们的社区页面，查看我们的呼叫时间表。你的贡献很重要！
+
+- [Community Link](https://lists.hyperledger.org/g/web3j) - Check our last updates! 看看我们最近的更新！
+- [Calendar Invite](https://lists.hyperledger.org/g/web3j/ics/invite.ics?repeatid=57401) - Add the contributor call to your calendar! 将贡献者调用添加到您的日历中！
+
+Features 特征
 --------
 
 -   Complete implementation of Ethereum's
